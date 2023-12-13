@@ -23,7 +23,7 @@ Describes the system's architecture, security measures, and data management.
 
 Contributions:
 
-Various team members contributed to frontend development, database management, API integration, and SQL architecture.
+Various team members contributed to front-end development, database management, API integration, and SQL architecture.
 Emphasis on secure coding practices, third-party component management, and infrastructure security.
 
 Workflow and Backend Development:
