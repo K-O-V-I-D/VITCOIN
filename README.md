@@ -35,7 +35,7 @@ Load testing, monitoring, and autoscaling mechanisms ensure system scalability a
 Blockchain Development:
 
 Built on Ethereum blockchain for security and interoperability.
-Smart contracts handle authentication, account management, and transactions.
+Smart contracts handle authentication, account management,and transactions.
 System designed for scalability, fault tolerance, and security.
 Conclusion:
 
