@@ -1,6 +1,7 @@
 # VITCOIN
 
 Larvel Based Banking system
+
 Introduction:
 
 VITCOIN is a digital currency project developed by a team of engineering students.
