@@ -2,12 +2,12 @@
 
 Larvel Based Banking system
 
-Introduction:
+## Introduction:
 
 VITCOIN is a digital currency project developed by a team of engineering students.
 Aims to merge traditional money features with the convenience of electronic transactions.
 
-Motivation and Objective:
+## Motivation and Objective:
 
 Motivated by the need for a secure digital currency with unique transaction methods.
 VITCOIN aims to provide a highly secure and speedy transaction experience within the VIT University community.
