@@ -12,12 +12,12 @@ Aims to merge traditional money features with the convenience of electronic tran
 Motivated by the need for a secure digital currency with unique transaction methods.
 VITCOIN aims to provide a highly secure and speedy transaction experience within the VIT University community.
 
-Existing Work and Literature Review:
+ ## Existing Work and Literature Review:
 
 Examines financial asset capabilities of Bitcoin and its role as a currency.
 Studies the hedging capabilities of Bitcoin and its impact on investment portfolios.
 
-Topic of the Work:
+## Topic of the Work:
 
 VITCOIN utilizes Blockchain technology for secure and transparent transactions.
 Describes the system's architecture, security measures, and data management.
