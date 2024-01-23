@@ -22,12 +22,12 @@ Studies the hedging capabilities of Bitcoin and its impact on investment portfol
 VITCOIN utilizes Blockchain technology for secure and transparent transactions.
 Describes the system's architecture, security measures, and data management.
 
-Contributions:
+## Contributions:
 
 Various team members contributed to front-end development, database management, API integration, and SQL architecture.
 Emphasis on secure coding practices, third-party component management, and infrastructure security.
 
-Workflow and Backend Development:
+## Workflow and Backend Development:
 
 Backend services orchestrate EFT transactions using Azure services and Kubernetes.
 Load testing, monitoring, and autoscaling mechanisms ensure system scalability and performance.
