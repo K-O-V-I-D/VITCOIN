@@ -32,15 +32,15 @@ Emphasis on secure coding practices, third-party component management, and infra
 Backend services orchestrate EFT transactions using Azure services and Kubernetes.
 Load testing, monitoring, and autoscaling mechanisms ensure system scalability and performance.
 
-Blockchain Development:
+## Blockchain Development:
 
 Built on Ethereum blockchain for security and interoperability.
-Smart contracts handle authentication, account management,and transactions.
+Smart contracts handle authentication, account management, and transactions.
 System designed for scalability, fault tolerance, and security.
 Conclusion:
 
 Aims to create a digital currency platform with a growing blockchain ledger for secure and immutable transactions.
-Confidence in meeting market expectations with a focus on deep understanding of blockchain technology.
+Confidence in meeting market expectations with a focus on a deep understanding of blockchain technology.
 
 References:
 
