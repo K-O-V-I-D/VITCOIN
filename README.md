@@ -42,6 +42,6 @@ Conclusion:
 Aims to create a digital currency platform with a growing blockchain ledger for secure and immutable transactions.
 Confidence in meeting market expectations with a focus on a deep understanding of blockchain technology.
 
-References:
+## References:
 
 Cites relevant sources and literature for a comprehensive understanding of digital currency and blockchain technology.
