@@ -1,6 +1,4 @@
 
-
-
 Larvel Based Banking system
 
 ## Introduction:
