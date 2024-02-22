@@ -1,4 +1,4 @@
-zsdfghyu765re4waoiuyt5r4324567890-P09OI8UYTGHJKLOIUYTGFDXCVBHJKL;zxccccccccccccccccccccc
+zsdfghyu765re4waoiuyt5r4324567890-P09
 Larvel Based Banking system
 
 ## Introduction:
