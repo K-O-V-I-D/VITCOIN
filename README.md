@@ -1,4 +1,4 @@
-1qazsw3efvbhy7ujkm,lo0p;/78UYHJBNNNHJUI890OPLKJUI.JKL
+1qazsw
 
 
 Larvel Based Banking system
